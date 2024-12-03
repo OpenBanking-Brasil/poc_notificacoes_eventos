@@ -4,7 +4,7 @@ Repositório para área de troca e colaboração sobre notificações e eventos.
 # TODO-LIST
 - [ ] Criar guia de configuração do Kafka
 - [ ] Criar script de setup do ACL
-- [ ] 
+- [ ] ...
 
 
 # Links úteis
