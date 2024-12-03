@@ -1,5 +1,5 @@
 # Notificações e eventos (POC)
-Repositório para área de troca e colaboração sobre notificações e eventos.
+Repositório para área de troca e colaboração sobre a POC de Notificações e Eventos utilizando mensageria Kakfa para transmissão de eventos de mudança de saldo relacionados a API `GET /accounts/{accountId}/balance` no Open Finance Brasil.
 
 # TODO-LIST
 - [ ] Criar guia de configuração do Kafka
