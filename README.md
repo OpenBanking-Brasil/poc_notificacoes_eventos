@@ -4,6 +4,7 @@ Repositório para área de troca e colaboração sobre a POC de Notificações e
 # TODO-LIST
 - [ ] Criar guia de configuração do Kafka
 - [ ] Criar script de setup do ACL
+- [ ] Criar arquivos com exemplos de mensagem
 - [ ] ...
 
 
