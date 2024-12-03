@@ -15,7 +15,7 @@ Repositório para área de troca e colaboração sobre a POC de Notificações e
 - https://docs.confluent.io/platform/current/kafka/monitoring.html
 
 
-# Servido Gerenciado
+# Gerenciados
 - [AWS MSK](https://docs.aws.amazon.com/msk/latest/developerguide/what-is-msk.html)
 - [Confluent Cloud](https://www.confluent.io/confluent-cloud)
 - [GCP GCMS](https://cloud.google.com/products/managed-service-for-apache-kafka)
