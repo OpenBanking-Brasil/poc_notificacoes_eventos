@@ -16,7 +16,6 @@ Repositório para área de troca e colaboração sobre a POC de Notificações e
 
 
 # Gerenciados
-- [AWS MSK](https://docs.aws.amazon.com/msk/latest/developerguide/what-is-msk.html)
 - [Confluent Cloud](https://www.confluent.io/confluent-cloud)
 - [GCP GCMS](https://cloud.google.com/products/managed-service-for-apache-kafka)
 - [Azure Event Hub](https://learn.microsoft.com/pt-br/azure/event-hubs/event-hubs-about)
